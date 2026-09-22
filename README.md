@@ -176,7 +176,7 @@ Unauthorized usage against systems you do not own or have explicit permission to
 
 <div align="center">
 
-## 👨‍💻 Ujas Gohil
+## 👨‍💻 Karan Gore
 
 Cybersecurity • Networking • Python Automation • Ethical Hacking
 
