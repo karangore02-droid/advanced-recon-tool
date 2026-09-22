@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 Advanced Recon Tool
+# 🔥 Advanced Web Recon Tool
 
 ### Advanced Website Reconnaissance & Tech Fingerprinting Framework
 
